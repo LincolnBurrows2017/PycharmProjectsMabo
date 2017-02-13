@@ -1,0 +1,780 @@
+1486729581017	geckodriver	INFO	Listening on 127.0.0.1:64621
+1486729583207	mozprofile::profile	INFO	Using profile path C:\Users\CSU-MABO\AppData\Local\Temp\rust_mozprofile.pXmYLURZoCVM
+1486729583222	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe
+1486729583524	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64628
+1486729587518	Marionette	INFO	Listening on port 64628
+[Child 5220] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1486729621475	geckodriver	INFO	Listening on 127.0.0.1:64735
+1486729623559	mozprofile::profile	INFO	Using profile path C:\Users\CSU-MABO\AppData\Local\Temp\rust_mozprofile.CLHKqvZedzBf
+1486729623589	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe
+1486729623826	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64742
+1486729628393	Marionette	INFO	Listening on port 64742
+1486729658050	geckodriver	INFO	Listening on 127.0.0.1:64838
+1486729660078	mozprofile::profile	INFO	Using profile path C:\Users\CSU-MABO\AppData\Local\Temp\rust_mozprofile.7y7Vh90ga9us
+1486729660090	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe
+1486729660353	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64846
+1486729668150	Marionette	INFO	Listening on port 64846
+[Child 13432] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13432] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+n localhost:64993
+1486729743579	Marionette	INFO	Listening on port 64993
+1486729828201	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+e	INFO	Using profile path C:\Users\CSU-MABO\AppData\Local\Temp\rust_mozprofile.3ue3aRYH537R
+1486729810777	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe
+1486729811011	geckodriver::marionette	INFO	Connecting to Marionette on localhost:65150
+1486729816774	Marionette	INFO	Listening on port 65150
+JavaScript warning: https://qzonestyle.gtimg.cn/c/=/qzone/v8/engine/migrate-plugin.js,/qzone/v8/engine/console-plus/console-plus.js,/qzone/v8/engine/request/request_61123.js,/qzone/v8/core/interface_mini.js?max_age=60628, line 4369: unreachable code after return statement
+JavaScript warning: https://qzonestyle.gtimg.cn/qzone/v8/ic/ic_feeds_monitor.js, line 296: unreachable code after return statement
+JavaScript warning: https://qzonestyle.gtimg.cn/qzone/v6/qm/qm_100006.js?max_age=900, line 611: unreachable code after return statement
+JavaScript warning: https://qzonestyle.gtimg.cn/qzone/v8/animate/app_scroll.js, line 2: unreachable code after return statement
+JavaScript warning: https://qzonestyle.gtimg.cn/qzone/photo/v7/js/common/qzone/common.js, line 4: unreachable code after return statement
+JavaScript warning: https://qzonestyle.gtimg.cn/qzone/photo/v7/js/common/qzone/common.js, line 4: unreachable code after return statement
+JavaScript warning: https://qzonestyle.gtimg.cn/qzone/v8/index/like.js, line 25: unreachable code after return statement
+JavaScript warning: https://qzonestyle.gtimg.cn/c/=/qzone/v8/engine/migrate-plugin.js,/qzone/v8/engine/console-plus/console-plus.js,/qzone/v8/engine/request/request_61123.js,/qzone/v8/core/interface_mini.js?max_age=60628, line 4369: unreachable code after return statement
+JavaScript warning: https://qzonestyle.gtimg.cn/qzone/v8/ic/videoManager/videoManager.js, line 349: unreachable code after return statement
+1486729898458	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1486729898547	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1486729898556	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1486729903078	geckodriver	INFO	Listening on 127.0.0.1:65456
+1486729905068	mozprofile::profile	INFO	Using profile path C:\Users\CSU-MABO\AppData\Local\Temp\rust_mozprofile.fzixPbAHCRuC
+1486729905080	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe
+1486729905293	geckodriver::marionette	INFO	Connecting to Marionette on localhost:65464
+1486729909009	Marionette	INFO	Listening on port 65464
+JavaScript warning: https://qzonestyle.gtimg.cn/c/=/qzone/v8/engine/migrate-plugin.js,/qzone/v8/engine/console-plus/console-plus.js,/qzone/v8/engine/request/request_61123.js,/qzone/v8/core/interface_mini.js?max_age=60628, line 4369: unreachable code after return statement
+JavaScript warning: https://qzonestyle.gtimg.cn/qzone/v8/ic/ic_feeds_monitor.js, line 296: unreachable code after return statement
+JavaScript warning: https://qzonestyle.gtimg.cn/qzone/v6/qm/qm_100006.js?max_age=900, line 611: unreachable code after return statement
+JavaScript warning: https://qzonestyle.gtimg.cn/qzone/v8/animate/app_scroll.js, line 2: unreachable code after return statement
+JavaScript warning: https://qzonestyle.gtimg.cn/qzone/photo/v7/js/common/qzone/common.js, line 4: unreachable code after return statement
+JavaScript warning: https://qzonestyle.gtimg.cn/qzone/photo/v7/js/common/qzone/common.js, line 4: unreachable code after return statement
+1486729951809	geckodriver	INFO	Listening on 127.0.0.1:49287
+1486729953897	mozprofile::profile	INFO	Using profile path C:\Users\CSU-MABO\AppData\Local\Temp\rust_mozprofile.3D16rujpzu9q
+1486729953928	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe
+1486729954835	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49295
+1486729960863	Marionette	INFO	Listening on port 49295
+[Child 5200] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5200] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1486730001342	geckodriver	INFO	Listening on 127.0.0.1:49356
+1486730003458	mozprofile::profile	INFO	Using profile path C:\Users\CSU-MABO\AppData\Local\Temp\rust_mozprofile.YB9HmyxvJIOB
+1486730003458	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe
+1486730003722	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49365
+1486730007386	Marionette	INFO	Listening on port 49365
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+console.error: 
+  Protocol error (noSuchActor): No such actor for ID: server1.conn0.child1/memoryActor12
+NFO	Connecting to Marionette on localhost:49996
+1486730402644	Marionette	INFO	Listening on port 49996
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+eckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe
+1486730441067	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50100
+1486730444174	Marionette	INFO	Listening on port 50100
+JavaScript warning: https://qzonestyle.gtimg.cn/c/=/qzone/v8/engine/migrate-plugin.js,/qzone/v8/engine/console-plus/console-plus.js,/qzone/v8/engine/request/request_61123.js,/qzone/v8/core/interface_mini.js?max_age=60628, line 4369: unreachable code after return statement
+JavaScript warning: https://qzonestyle.gtimg.cn/qzone/v8/ic/ic_feeds_monitor.js, line 296: unreachable code after return statement
+JavaScript warning: https://qzonestyle.gtimg.cn/qzone/v6/qm/qm_100006.js?max_age=900, line 611: unreachable code after return statement
+JavaScript warning: https://qzonestyle.gtimg.cn/qzone/photo/v7/js/common/qzone/common.js, line 4: unreachable code after return statement
+JavaScript warning: https://qzonestyle.gtimg.cn/qzone/v8/animate/app_scroll.js, line 2: unreachable code after return statement
+JavaScript warning: https://qzonestyle.gtimg.cn/qzone/photo/v7/js/common/qzone/common.js, line 4: unreachable code after return statement
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+JavaScript warning: https://qzonestyle.gtimg.cn/qzone/v8/index/like.js, line 25: unreachable code after return statement
+1486737525794	geckodriver	INFO	Listening on 127.0.0.1:55076
+1486737527914	mozprofile::profile	INFO	Using profile path C:\Users\CSU-MABO\AppData\Local\Temp\rust_mozprofile.261A3dhzTpm1
+1486737527962	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe
+1486737528698	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55087
+1486737535844	Marionette	INFO	Listening on port 55087
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 75: TypeError: this._recipeManager is null
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+242
+JavaScript warning: https://qzonestyle.gtimg.cn/c/=/qzone/v8/engine/migrate-plugin.js,/qzone/v8/engine/console-plus/console-plus.js,/qzone/v8/engine/request/request_61123.js,/qzone/v8/core/interface_mini.js?max_age=60628, line 4369: unreachable code after return statement
+JavaScript warning: https://qzonestyle.gtimg.cn/qzone/v8/ic/ic_feeds_monitor.js, line 296: unreachable code after return statement
+JavaScript warning: https://qzonestyle.gtimg.cn/qzone/v6/qm/qm_100006.js?max_age=900, line 611: unreachable code after return statement
+JavaScript warning: https://qzonestyle.gtimg.cn/qzone/v8/animate/app_scroll.js, line 2: unreachable code after return statement
+JavaScript warning: https://qzonestyle.gtimg.cn/qzone/photo/v7/js/common/qzone/common.js, line 4: unreachable code after return statement
+JavaScript warning: https://qzonestyle.gtimg.cn/qzone/photo/v7/js/common/qzone/common.js, line 4: unreachable code after return statement
+JavaScript warning: https://qzonestyle.gtimg.cn/qzone/v8/ic/videoManager/videoManager.js, line 349: unreachable code after return statement
+JavaScript warning: https://qzonestyle.gtimg.cn/qzone/v8/index/like.js, line 25: unreachable code after return statement
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+eckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe
+1486738077052	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55697
+1486738082927	Marionette	INFO	Listening on port 55697
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+eckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe
+1486738360793	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55958
+1486738365832	Marionette	INFO	Listening on port 55958
+[Child 5708] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1486738401219	geckodriver	INFO	Listening on 127.0.0.1:56048
+1486738403349	mozprofile::profile	INFO	Using profile path C:\Users\CSU-MABO\AppData\Local\Temp\rust_mozprofile.LGFP7HEMMHb0
+1486738403362	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe
+1486738403712	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56054
+1486738408852	Marionette	INFO	Listening on port 56054
+[Child 5760] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1486738435179	geckodriver	INFO	Listening on 127.0.0.1:56142
+1486738437287	mozprofile::profile	INFO	Using profile path C:\Users\CSU-MABO\AppData\Local\Temp\rust_mozprofile.yTJoU4AiWC53
+1486738437318	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe
+1486738437664	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56150
+1486738444363	Marionette	INFO	Listening on port 56150
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+eckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe
+1486738489885	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56266
+1486738494171	Marionette	INFO	Listening on port 56266
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+eckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe
+1486738874482	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56683
+1486738878916	Marionette	INFO	Listening on port 56683
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1486739840821	geckodriver	INFO	Listening on 127.0.0.1:58005
+1486739842930	mozprofile::profile	INFO	Using profile path C:\Users\CSU-MABO\AppData\Local\Temp\rust_mozprofile.wJ0Yf0nDbstC
+1486739842945	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe
+1486739843180	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58011
+1486739845882	Marionette	INFO	Listening on port 58011
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+eckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe
+1486739888849	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58105
+1486739891615	Marionette	INFO	Listening on port 58105
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1486777780807	geckodriver	INFO	Listening on 127.0.0.1:62971
+1486777783033	mozprofile::profile	INFO	Using profile path C:\Users\CSU-MABO\AppData\Local\Temp\rust_mozprofile.WZa3BYbadsxI
+1486777783044	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe
+1486777783494	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62978
+1486777790840	Marionette	INFO	Listening on port 62978
+1486777817271	Marionette	WARN	Using deprecated data structure for setting timeouts
+JavaScript warning: https://qzonestyle.gtimg.cn/c/=/qzone/v8/engine/migrate-plugin.js,/qzone/v8/engine/console-plus/console-plus.js,/qzone/v8/engine/request/request_61123.js,/qzone/v8/core/interface_mini.js?max_age=60628, line 4369: unreachable code after return statement
+JavaScript warning: https://qzonestyle.gtimg.cn/qzone/v8/ic/ic_feeds_monitor.js, line 296: unreachable code after return statement
+JavaScript warning: https://qzonestyle.gtimg.cn/qzone/v6/qm/qm_100006.js?max_age=900, line 611: unreachable code after return statement
+JavaScript warning: https://qzonestyle.gtimg.cn/qzone/photo/v7/js/common/qzone/common.js, line 4: unreachable code after return statement
+JavaScript warning: https://qzonestyle.gtimg.cn/qzone/v8/animate/app_scroll.js, line 2: unreachable code after return statement
+JavaScript warning: https://qzonestyle.gtimg.cn/qzone/photo/v7/js/common/qzone/common.js, line 4: unreachable code after return statement
+JavaScript warning: https://qzonestyle.gtimg.cn/c/=/qzone/v8/engine/migrate-plugin.js,/qzone/v8/engine/console-plus/console-plus.js,/qzone/v8/engine/request/request_61123.js,/qzone/v8/core/interface_mini.js?max_age=60628, line 4369: unreachable code after return statement
+JavaScript warning: https://qzonestyle.gtimg.cn/qzone/v8/index/like.js, line 25: unreachable code after return statement
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+JavaScript error: https://qzonestyle.gtimg.cn/c/=/qzone/app/v8/controls/mood_poster/mood_poster_facade.60825.js,/qzone/app/v8/controls/mood_poster/1.0.50318.js,/qzone/app/v8/controls/mood_poster/common/constant/1.0.31226.js,/qzone/app/v8/controls/mood_poster/mood_editor/1.0.50104.js,/qzone/app/v8/controls/mood_poster/mood_editor_config/1.0.40405.js,/qzone/app/v8/controls/mood_poster/template_1.0.40818.js,/qzone/app/v8/controls/sensible_editor/3.0.40625.js,/qzone/app/v8/controls/mood_poster/misc/1.0.js,/qzone/app/v8/controls/mood_poster/utils/misc/1.0.50921.js,/qzone/app/v8/f4a/1.0.20130723.js,/qzone/app/v8/controls/mood_poster/managed_content_loader/1.0.js,/qzone/app/v8/models/mood/image/1.0.js,/qzone/app/v8/controls/mood_poster/utils/photo_data_converter/1.0.4010801.js,/qzone/app/v8/controls/mood_poster/mood_wall_entrance/qbPreData.js,/qzone/app/v8/controls/mood_poster/plugins/quick_image_attacher/trigger/1.0.20130808.js,/qzone/app/utility/operation.50303.js?max_age=72000, line 153: TypeError: b is null
+JavaScript warning: https://qzonestyle.gtimg.cn/c/=/qzone/v8/engine/migrate-plugin.js,/qzone/v8/engine/console-plus/console-plus.js,/qzone/v8/engine/request/request_61123.js,/qzone/v8/core/interface_mini.js?max_age=60628, line 4369: unreachable code after return statement
+JavaScript warning: https://qzonestyle.gtimg.cn/qzone/v8/ic/ic_feeds_monitor.js, line 296: unreachable code after return statement
+JavaScript warning: https://qzonestyle.gtimg.cn/qzone/v6/qm/qm_100006.js?max_age=900, line 611: unreachable code after return statement
+JavaScript warning: https://qzonestyle.gtimg.cn/qzone/v8/animate/app_scroll.js, line 2: unreachable code after return statement
+JavaScript warning: https://qzonestyle.gtimg.cn/qzone/photo/v7/js/common/qzone/common.js, line 4: unreachable code after return statement
+JavaScript warning: https://qzonestyle.gtimg.cn/qzone/photo/v7/js/common/qzone/common.js, line 4: unreachable code after return statement
+JavaScript warning: https://qzonestyle.gtimg.cn/c/=/qzone/v8/engine/migrate-plugin.js,/qzone/v8/engine/console-plus/console-plus.js,/qzone/v8/engine/request/request_61123.js,/qzone/v8/core/interface_mini.js?max_age=60628, line 4369: unreachable code after return statement
+JavaScript warning: https://qzonestyle.gtimg.cn/qzone/v8/index/like.js, line 25: unreachable code after return statement
+JavaScript warning: https://qzonestyle.gtimg.cn/qzone/v8/animate/app_scroll.js, line 2: unreachable code after return statement
+JavaScript warning: https://qzonestyle.gtimg.cn/qzone/photo/v7/js/common/viewer2/index.js, line 683: unreachable code after return statement
+[Child 8296] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+zprofile.Udd1mdyErdgl
+1486779260335	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe
+1486779260594	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63862
+1486779265632	Marionette	INFO	Listening on port 63862
+1486779283545	Marionette	WARN	Using deprecated data structure for setting timeouts
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1486781202116	geckodriver	INFO	Listening on 127.0.0.1:65051
+1486781204155	mozprofile::profile	INFO	Using profile path C:\Users\CSU-MABO\AppData\Local\Temp\rust_mozprofile.ku3E0hlAQfID
+1486781204166	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe
+1486781204498	geckodriver::marionette	INFO	Connecting to Marionette on localhost:65057
+1486781210690	Marionette	INFO	Listening on port 65057
+1486781228175	Marionette	WARN	Using deprecated data structure for setting timeouts
+1486781228630	Marionette	WARN	Using deprecated data structure for setting timeouts
+JavaScript warning: https://h5.qzone.qq.com/mqzone/index?sid=ETYaYRPK0qFOyr213/Hy0pERP9VoTnwb5fca89660201==, line 1: unreachable code after return statement
+JavaScript warning: https://h5.qzone.qq.com/mqzone/index?sid=ETYaYRPK0qFOyr213/Hy0pERP9VoTnwb5fca89660201==, line 1: unreachable code after return statement
+JavaScript warning: https://qzonestyle.gtimg.cn/qzone/phone/m/v4/lib/dist/seajs3-0.1.5.js?max_age=31104000, line 436: unreachable code after return statement
+JavaScript warning: https://qzonestyle.gtimg.cn/qzone/phone/m/v4/lib/dist/seajs3-0.1.5.js?max_age=31104000, line 436: unreachable code after return statement
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+[Child 10768] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+1123.js,/qzone/v8/core/interface_mini.js?max_age=60628, line 4369: unreachable code after return statement
+JavaScript warning: https://qzonestyle.gtimg.cn/qzone/v8/ic/ic_feeds_monitor.js, line 296: unreachable code after return statement
+JavaScript warning: https://qzonestyle.gtimg.cn/qzone/v6/qm/qm_100006.js?max_age=900, line 611: unreachable code after return statement
+JavaScript warning: https://qzonestyle.gtimg.cn/qzone/v8/animate/app_scroll.js, line 2: unreachable code after return statement
+JavaScript warning: https://qzonestyle.gtimg.cn/qzone/photo/v7/js/common/qzone/common.js, line 4: unreachable code after return statement
+JavaScript warning: https://qzonestyle.gtimg.cn/qzone/photo/v7/js/common/qzone/common.js, line 4: unreachable code after return statement
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+[Child 14808] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+44959	Marionette	INFO	Listening on port 49823
+1486784662505	Marionette	WARN	Using deprecated data structure for setting timeouts
+1486784715123	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+JavaScript warning: https://qzonestyle.gtimg.cn/c/=/qzone/v8/engine/migrate-plugin.js,/qzone/v8/engine/console-plus/console-plus.js,/qzone/v8/engine/request/request_61123.js,/qzone/v8/core/interface_mini.js?max_age=60628, line 4369: unreachable code after return statement
+JavaScript warning: https://qzonestyle.gtimg.cn/qzone/v8/ic/ic_feeds_monitor.js, line 296: unreachable code after return statement
+JavaScript warning: https://qzonestyle.gtimg.cn/qzone/v6/qm/qm_100006.js?max_age=900, line 611: unreachable code after return statement
+JavaScript warning: https://qzonestyle.gtimg.cn/qzone/photo/v7/js/common/qzone/common.js, line 4: unreachable code after return statement
+JavaScript[Child 10100] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+.cn/qzone/photo/v7/js/common/qzone/common.js, line 4: unreachable code after return statement
+ata structure for setting timeouts
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 75: TypeError: this._recipeManager is null
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 75: TypeError: this._recipeManager is null
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 75: TypeError: this._recipeManager is null
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 75: TypeError: this._recipeManager is null
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 75: TypeError: this._recipeManager is null
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 75: TypeError: this._recipeManager is null
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+JavaScript warning: http://s3.music.126.net/sep/s/2/core.js?8ff049e27a3aa35986146f061f5a9b4b, line 89: unreachable code after return statement
+JavaScript warning: http://s3.music.126.net/sep/s/2/pt_musicbox_mailplayer.js?db321b7bbe59c57966301d85d932ec54, line 11: unreachable code after return statement
+JavaScript warning: http://s3.music.126.net/sep/s/2/pt_musicbox_mailplayer.js?db321b7bbe59c57966301d85d932ec54, line 11: unreachable code after return statement
+JavaScript warning: https://web.yixin.im/m/r/core.js?7d338c1ef698e862cb58052c87490266, line 117: unreachable code after return statement
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]"  nsresult: "0x80004002 (NS_NOINTERFACE)"  location: "JS frame :: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webbrowser.js :: _docShellsToWindows/< :: line 1376"  data: no]
+Stack: _docShellsToWindows/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webbrowser.js:1376:11
+_docShellsToWindows@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webbrowser.js:1373:12
+_notifyDocShellsUpdate@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webbrowser.js:1404:19
+DebuggerProgressListener.prototype.onStateChange<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webbrowser.js:2487:7
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+Line: 1376, column: 0
+console.error: 
+  Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]"  nsresult: "0x80004002 (NS_NOINTERFACE)"  location: "JS frame :: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webbrowser.js :: _docShellsToWindows/< :: line 1376"  data: no]
+Stack: _docShellsToWindows/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webbrowser.js:1376:11
+_docShellsToWindows@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webbrowser.js:1373:12
+_notifyDocShellsUpdate@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webbrowser.js:1404:19
+DebuggerProgressListener.prototype.onStateChange<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webbrowser.js:2487:7
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+Line: 1376, column: 0
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]"  nsresult: "0x80004002 (NS_NOINTERFACE)"  location: "JS frame :: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webbrowser.js :: DebuggerProgressListener.prototype.onStateChange< :: line 2490"  data: no]
+Stack: DebuggerProgressListener.prototype.onStateChange<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webbrowser.js:2490:9
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+Line: 2490, column: 0
+console.error: 
+  Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]"  nsresult: "0x80004002 (NS_NOINTERFACE)"  location: "JS frame :: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webbrowser.js :: DebuggerProgressListener.prototype.onStateChange< :: line 2490"  data: no]
+Stack: DebuggerProgressListener.prototype.onStateChange<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webbrowser.js:2490:9
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+Line: 2490, column: 0
+1486808465163	geckodriver	INFO	Listening on 127.0.0.1:56897
+1486808467288	mozprofile::profile	INFO	Using profile path C:\Users\CSU-MABO\AppData\Local\Temp\rust_mozprofile.Ry9lQOTPeU6w
+1486808467300	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe
+1486808467754	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56906
+1486808473253	Marionette	INFO	Listening on port 56906
+1486808558356	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+r::marionette	INFO	Connecting to Marionette on localhost:57062
+1486808560168	Marionette	INFO	Listening on port 57062
+1486808644826	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+[Child 9244] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+source://app/modules/sessionstore/SessionSaver.jsm:259:12
+SessionSaverInternal._saveState@resource://app/modules/sessionstore/SessionSaver.jsm:230:12
+SessionSaverInternal._saveStateAsync@resource://app/modules/sessionstore/SessionSaver.jsm:243:5
+SessionSaverInternal.runDelayed/this._timeoutID<@resource://app/modules/sessionstore/SessionSaver.jsm:147:40
+setTimeout_timer@resource://gre/modules/Timer.jsm:30:5
+
+
+###!!! [Parent][OnMaybeDequeueOne] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][OnMaybeDequeueOne] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][OnMaybeDequeueOne] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][OnMaybeDequeueOne] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][OnMaybeDequeueOne] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][OnMaybeDequeueOne] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][OnMaybeDequeueOne] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][OnMaybeDequeueOne] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][OnMaybeDequeueOne] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][OnMaybeDequeueOne] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][OnMaybeDequeueOne] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][OnMaybeDequeueOne] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][OnMaybeDequeueOne] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][OnMaybeDequeueOne] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][OnMaybeDequeueOne] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][OnMaybeDequeueOne] Error: Channel error: cannot send/recv
+
+is principal, losing the least recently used one.
+WebGL(1B184400)::ForceLoseContext
+1486823834498	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing background.persistent: Event pages are not currently supported. This will run as a persistent background page.
+1486823834583	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing author: An unexpected property was found in the WebExtension manifest.
+14868*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011D,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/PerformanceWatcher-content.js, line 43: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A00C3,name=PContent::Msg_ConsoleMessage) Channel closing: too late to send/recv, messages will be lost
+
+2"  data: no] Stack trace: AddonInstall.prototype.removeTemporaryFile()@resource://gre/modules/addons/XPIProvider.jsm:5682 < AddonInstall.prototype.startInstall/<()@resource://gre/modules/addons/XPIProvider.jsm:6479 < Handler.prototype.process()@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:937 < this.PromiseWalker.walkerLoop()@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:816 < this.PromiseWalker.scheduleWalkerLoop/<()@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:750
+1486823843657	addons.webextension.{E0B8C461-F8FB-49b4-8373-FE32E9252800}	WARN	Loading extension '{E0B8C461-F8FB-49b4-8373-FE32E9252800}': Reading manifest: Error processing background.persistent: Event pages are not currently supported. This will run as a persistent background page.
+1486823843735	addons.webextension.{E0B8C461-F8FB-49b4-8373-FE32E9252800}	WARN	Loading extension '{E0B8C461-F8FB-49b4-8373-FE32E9252800}': Reading manifest: Error processing author: An unexpected property was found in the WebExtension manifest.
+1486823843737	addons.webextension.{E0B8C461-F8FB-49b4-8373-FE32E9252800}	WARN	Loading extension '{E0B8C461-F8FB-49b4-8373-FE32E9252800}': Reading manifest: Error processing options_page: An unexpected property was found in the WebExtension manifest.
+1486823843916	addons.webextension.{E0B8C461-F8FB-49b4-8373-FE32E9252800}	WARN	Please specify whether you want browser_style or not in your browser_action options.
+JavaScript error: , line 0: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: , line 0: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: , line 0: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: , line 0: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: , line 0: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: , line 0: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: , line 0: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: , line 0: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: , line 0: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: , line 0: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: , line 0: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: , line 0: Error: Message manager disconnected
+JavaScript error: , line 0: Error: Message manager disconnected
+JavaScript error: , line 0: Error: Message manager disconnected
+JavaScript error: , line 0: Error: Message manager disconnected
+JavaScript error: , line 0: Error: Message manager disconnected
+JavaScript error: , line 0: Error: Message manager disconnected
+JavaScript error: , line 0: Error: Message manager disconnected
+JavaScript error: , line 0: Error: Message manager disconnected
+JavaScript error: , line 0: Error: Message manager disconnected
+JavaScript error: , line 0: Error: Message manager disconnected
+JavaScript error: , line 0: Error: Message manager disconnected
+JavaScript error: , line 0: Error: Message manager disconnected
+JavaScript error: , line 0: Error: Message manager disconnected
+JavaScript error: , line 0: Error: Message manager disconnected
+windows.onRemoved event fired after context unloaded.
+tabs.onRemoved event fired after context unloaded.
+tabs.onRemoved event fired after context unloaded.
+tabs.onRemoved event fired after context unloaded.
+tabs.onRemoved event fired after context unloaded.
+tabs.onRemoved event fired after context unloaded.
+tabs.onRemoved event fired after context unloaded.
+tabs.onRemoved event fired after context unloaded.
+tabs.onRemoved event fired after context unloaded.
+windows.onFocusChanged event fired after context unloaded.
+Promise rejected after context unloaded: Message manager disconnected
+Promise rejected after context unloaded: Message manager disconnected
+Promise rejected after context unloaded: Message manager disconnected
+Promise rejected after context unloaded: Message manager disconnected
+Promise rejected after context unloaded: Message manager disconnected
+Promise rejected after context unloaded: Message manager disconnected
+Promise rejected after context unloaded: Message manager disconnected
+Promise rejected after context unloaded: Message manager disconnected
+Promise rejected after context unloaded: Message manager disconnected
+Promise rejecte
+###!!! [Parent][MessageChannel] Error: (msgtype=0x2E008E,name=PBrowser::Msg_UpdateNativeWindowHandle) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x2E007F,name=PBrowser::Msg_Destroy) Closed channel: cannot send/recv
+
+[Child 6008] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2E0001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+
+JavaScript error: chrome://browser/content/tab-content.js, line 322: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2E0001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+
+JavaScript error: chrome://browser/content/content.js, line 651: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel::SendAndWait] Error: (msgtype=0x4A00CB,name=PContent::Msg_ClipboardHasType) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2E0027,name=PBrowser::Msg_EnableDisableCommands) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: (msgtype=0x2E0014,name=PBrowser::Msg_NotifyIMEFocus) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2E002A,name=PBrowser::Msg_SetInputContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2E0001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+
+JavaScript error: chrome://global/content/browser-child.js, line 115: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2E0001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+
+JavaScript error: chrome://global/content/browser-child.js, line 115: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+mise rejected after context unloaded: Message manager disconnected
+Promise rejected after context unloaded: Message manager disconnected
+Promise rejected after context unloaded: Message manager disconnected
+Promise rejected after context unloaded: Message manager disconnected
+Promise rejected after context unloaded: Message manager disconnected
+Promise rejected after context unloaded: Message manager disconnected
+Promise rejected after context unloaded: Message manager disconnected
+Promise rejected after context unloaded: Message manager disconnected
+Promise rejected after context unloaded: Message manager disconnected
+Promise rejected after context unloaded: Message manager disconnected
+Promise rejected after context unloaded: Message manager disconnected
+Promise rejected after context unloaded: Message manager disconnected
+console.error: 
+  Message: Error: SessionFile is closed
+  Stack:
+    SessionFileInternal.write@resource://app/modules/sessionstore/SessionFile.jsm:315:29
+this.SessionFile.write@resource://app/modules/sessionstore/SessionFile.jsm:76:12
+SessionSaverInternal._writeState@resource://app/modules/sessionstore/SessionSaver.jsm:259:12
+SessionSaverInternal._saveState@resource://app/modules/sessionstore/SessionSaver.jsm:230:12
+SessionSaverInternal._saveStateAsync@resource://app/modules/sessionstore/SessionSaver.jsm:243:5
+SessionSaverInternal.runDelayed/this._timeoutID<@resource://app/modules/sessionstore/SessionSaver.jsm:147:40
+setTimeout_timer@resource://gre/modules/Timer.jsm:30:5
+
+
+###!!! [Parent][OnMaybeDequeueOne] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][OnMaybeDequeueOne] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][OnMaybeDequeueOne] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][OnMaybeDequeueOne] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][OnMaybeDequeueOne] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][OnMaybeDequeueOne] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][OnMaybeDequeueOne] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][OnMaybeDequeueOne] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][OnMaybeDequeueOne] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][OnMaybeDequeueOne] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][OnMaybeDequeueOne] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][OnMaybeDequeueOne] Error: Channel error: cannot send/recv
+
+1486987724884	geckodriver	INFO	Listening on 127.0.0.1:62750
+1486987726914	mozprofile::profile	INFO	Using profile path C:\Users\CSU-MABO\AppData\Local\Temp\rust_mozprofile.8GEFfp2EVWgy
+1486987726924	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe
+1486987727452	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62757
+1486987731120	Marionette	INFO	Listening on port 62757
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+eckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe
+1486987771405	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62835
+1486987774056	Marionette	INFO	Listening on port 62835
+JavaScript warning: https://web.yixin.im/m/r/core.js?7d338c1ef698e862cb58052c87490266, line 117: unreachable code after return statement
+JavaScript warning: http://s3.music.126.net/sep/s/2/core.js?8ff049e27a3aa35986146f061f5a9b4b, line 89: unreachable code after return statement
+JavaScript warning: http://s3.music.126.net/sep/s/2/pt_musicbox_mailplayer.js?db321b7bbe59c57966301d85d932ec54, line 11: unreachable code after return statement
+JavaScript warning: http://s3.music.126.net/sep/s/2/pt_musicbox_mailplayer.js?db321b7bbe59c57966301d85d932ec54, line 11: unreachable code after return statement
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+eckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe
+1486987849356	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63003
+1486987852210	Marionette	INFO	Listening on port 63003
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+eckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe
+1486987887716	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63103
+1486987890274	Marionette	INFO	Listening on port 63103
+JavaScript warning: https://web.yixin.im/m/r/core.js?7d338c1ef698e862cb58052c87490266, line 117: unreachable code after return statement
+JavaScript warning: https://web.yixin.im/m/r/core.js?7d338c1ef698e862cb58052c87490266, line 117: unreachable code after return statement
+JavaScript warning: http://s3.music.126.net/sep/s/2/core.js?8ff049e27a3aa35986146f061f5a9b4b, line 89: unreachable code after return statement
+JavaScript warning: http://s3.music.126.net/sep/s/2/pt_musicbox_mailplayer.js?db321b7bbe59c57966301d85d932ec54, line 11: unreachable code after return statement
+JavaScript warning: http://s3.music.126.net/sep/s/2/pt_musicbox_mailplayer.js?db321b7bbe59c57966301d85d932ec54, line 11: unreachable code after return statement
+1486987973747	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+r::marionette	INFO	Connecting to Marionette on localhost:63281
+1486987962226	Marionette	INFO	Listening on port 63281
+1486988045679	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+r::marionette	INFO	Connecting to Marionette on localhost:63350
+1486988002954	Marionette	INFO	Listening on port 63350
+1486988086531	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+eckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe
+1486988142170	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63441
+1486988144851	Marionette	INFO	Listening on port 63441
+JavaScript warning: https://web.yixin.im/m/r/core.js?7d338c1ef698e862cb58052c87490266, line 117: unreachable code after return statement
+JavaScript warning: http://s3.music.126.net/sep/s/2/core.js?8ff049e27a3aa35986146f061f5a9b4b, line 89: unreachable code after return statement
+JavaScript warning: http://s3.music.126.net/sep/s/2/pt_musicbox_mailplayer.js?db321b7bbe59c57966301d85d932ec54, line 11: unreachable code after return statement
+JavaScript warning: http://s3.music.126.net/sep/s/2/pt_musicbox_mailplayer.js?db321b7bbe59c57966301d85d932ec54, line 11: unreachable code after return statement
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+eckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe
+1486988220191	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63577
+1486988223229	Marionette	INFO	Listening on port 63577
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 75: TypeError: this._recipeManager is null
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+eckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe
+1486988369284	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63672
+1486988371755	Marionette	INFO	Listening on port 63672
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 75: TypeError: this._recipeManager is null
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 75: TypeError: this._recipeManager is null
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 75: TypeError: this._recipeManager is null
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+reachable code after return statement
+JavaScript warning: http://s3.music.126.net/sep/s/2/pt_musicbox_mailplayer.js?db321b7bbe59c57966301d85d932ec54, line 11: unreachable code after return statement
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+eckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe
+1486989000732	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64198
+1486989005059	Marionette	INFO	Listening on port 64198
+JavaScript warning: https://web.yixin.im/m/r/core.js?7d338c1ef698e862cb58052c87490266, line 117: unreachable code after return statement
+JavaScript warning: http://s3.music.126.net/sep/s/2/core.js?8ff049e27a3aa35986146f061f5a9b4b, line 89: unreachable code after return statement
+JavaScript warning: http://s3.music.126.net/sep/s/2/pt_musicbox_mailplayer.js?db321b7bbe59c57966301d85d932ec54, line 11: unreachable code after return statement
+JavaScript warning: http://s3.music.126.net/sep/s/2/pt_musicbox_mailplayer.js?db321b7bbe59c57966301d85d932ec54, line 11: unreachable code after return statement
+1486989089527	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+eckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe
+1486989126771	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64356
+1486989129998	Marionette	INFO	Listening on port 64356
+JavaScript warning: https://web.yixin.im/m/r/core.js?7d338c1ef698e862cb58052c87490266, line 117: unreachable code after return statement
+JavaScript warning: http://s3.music.126.net/sep/s/2/core.js?8ff049e27a3aa35986146f061f5a9b4b, line 89: unreachable code after return statement
+JavaScript warning: http://s3.music.126.net/sep/s/2/pt_musicbox_mailplayer.js?db321b7bbe59c57966301d85d932ec54, line 11: unreachable code after return statement
+JavaScript warning: http://s3.music.126.net/sep/s/2/pt_musicbox_mailplayer.js?db321b7bbe59c57966301d85d932ec54, line 11: unreachable code after return statement
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+eckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe
+1486989417031	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64553
+1486989420137	Marionette	INFO	Listening on port 64553
+JavaScript error: chrome://marionette/content/listener.js, line 870: TypeError: can't access dead object
+1486989432508	geckodriver	INFO	Listening on 127.0.0.1:64581
+1486989434589	mozprofile::profile	INFO	Using profile path C:\Users\CSU-MABO\AppData\Local\Temp\rust_mozprofile.6fIri4j7s1CO
+1486989434600	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe
+1486989434848	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64587
+1486989438102	Marionette	INFO	Listening on port 64587
+1486989448588	Marionette	WARN	Using deprecated data structure for setting timeouts
+JavaScript warning: https://qzonestyle.gtimg.cn/c/=/qzone/v8/engine/migrate-plugin.js,/qzone/v8/engine/console-plus/console-plus.js,/qzone/v8/engine/request/request_61123.js,/qzone/v8/core/interface_mini.js?max_age=60628, line 4369: unreachable code after return statement
+JavaScript warning: https://qzonestyle.gtimg.cn/qzone/v8/ic/ic_feeds_monitor.js, line 296: unreachable code after return statement
+JavaScript warning: https://qzonestyle.gtimg.cn/qzone/v6/qm/qm_100006.js?max_age=900, line 611: unreachable code after return statement
+JavaScript warning: https://qzonestyle.gtimg.cn/qzone/photo/v7/js/common/qzone/common.js, line 4: unreachable code after return statement
+JavaScript warning: https://qzonestyle.gtimg.cn/qzone/v8/animate/app_scroll.js, line 2: unreachable code after return statement
+JavaScript warning: https://qzonestyle.gtimg.cn/qzone/photo/v7/js/common/qzone/common.js, line 4: unreachable code after return statement
+JavaScript warning: https://qzonestyle.gtimg.cn/qzone/v8/index/like.js, line 25: unreachable code after return statement
+JavaScript warning: https://qzonestyle.gtimg.cn/c/=/qzone/v8/engine/migrate-plugin.js,/qzone/v8/engine/console-plus/console-plus.js,/qzone/v8/engine/request/request_61123.js,/qzone/v8/core/interface_mini.js?max_age=60628, line 4369: unreachable code after return statement
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+eckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe
+1486989799574	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64850
+1486989812898	Marionette	INFO	Listening on port 64850
+1486989835463	Marionette	WARN	Using deprecated data structure for setting timeouts
+JavaScript error: http://qzonestyle.gtimg.cn/open/connect/portal/js/lib/clipboard.js?t=20130507001, line 2: TypeError: trigger is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
