@@ -1,0 +1,12 @@
+Index: geckodriver.log
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- geckodriver.log	(revision )
++++ geckodriver.log	(revision ceb4dcf45ab0c9ae78124dd7aefacf003d54f78c)
+@@ -1,1 +1,1 @@
+-test23
+\ No newline at end of file
++test
+\ No newline at end of file
