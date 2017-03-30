@@ -42,4 +42,4 @@ def get_info(url):
 
 
 #save_info('http://bj.58.com/zixingche/17216840220170x.shtml?psid=141693528195082930022038611&entinfo=17216840220170_0&iuType=z_2&PGTID=0d3000f0-0000-14aa-5f7c-caf7da6cb28f&ClickID=1')
-#save_url('http://bj.58.com/zixingche/',1)
+get_links_from('http://bj.58.com/zixingche/',1)
